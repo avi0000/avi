@@ -38,9 +38,11 @@ header ul li a {
   text-decoration: none;
   color: white;
   padding: 7px;
+  margin: 1px;
 }
 header ul li a:hover {
-  border: 2px solid white;
+  border: 1px solid white;
+  margin: 0px;
 }
 #header_search {
   width: 340px;
@@ -96,7 +98,7 @@ main {
     
 }
 .profile li:hover{
-    
+    margin: 19px 29px;
     border: 1px solid black;
 }
 #facebook {
