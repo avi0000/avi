@@ -72,7 +72,7 @@ main {
 .profile {
   width: 100%;
   margin: 20px 80px;
-  background-image: url("https://avi0000.github.io/profile.github.io/images/background.jpeg");
+  background-image: url("../images/background.jpeg");
   background-size: 100%;
   display: flex;
   flex-direction: column;
@@ -95,7 +95,7 @@ main {
   color: white;
 }
 #instagram {
-  background-image: url(instagram-logo.jpg);
+  background-image: url(../images/instagram-logo.jpg);
   background-size: cover;
   width: 105px;
 }
@@ -104,11 +104,11 @@ main {
   border: 1px solid black;
 }
 #facebook {
-  background-image: url(facebook_logo.jpg);
+  background-image: url(../images/facebook_logo.jpg);
   background-size: 100%;
 }
 #twitter {
-  background-image: url(twitter-logo2.jpg);
+  background-image: url(../images/twitter-logo2.jpg);
   background-size: 100%;
 }
 .container {
